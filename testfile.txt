@@ -1,0 +1,9 @@
+COMPARE FILES
+- Diff for Mac & linux
+- FC file compare - for windows
+--$ FC file1.txt file2.txt
+- minus tecken är kod som var i förra filen.
++ plus tecken är kod som har tillkommit.
+
+COMMIT
+
